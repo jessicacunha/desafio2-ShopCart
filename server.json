@@ -1,0 +1,26 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+            "name": "Iphone",
+            "description": "Descrição do produto",
+            "price": 3000
+        },
+        {
+            "id": 2,
+            "photo": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+            "name": "Galaxy",
+            "description": "Descrição do produto",
+            "price": 5000
+        },
+        {
+            "id": 3,
+            "photo": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000",
+            "name": "Galaxy",
+            "description": "Descrição do produto",
+            "price": 5000
+        }
+        
+    ]
+}
